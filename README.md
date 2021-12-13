@@ -1,1 +1,1 @@
-基于vue-cli3的vue2必要配置项
+基于vue-cli3的vue2项目的必要配置项
